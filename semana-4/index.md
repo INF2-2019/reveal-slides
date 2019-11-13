@@ -2,11 +2,11 @@
 
 %%%
 
-# Semana 4
+## Semana 4
 
 ---
 
-# Grupo 1|B
+## Grupo 1|B
 
 ---
 
@@ -16,11 +16,7 @@
 
 - ✅ **Perfil** do professor _Aplicação Web_
 
-- ❌ **Listagem** do acervo _Aplicação Desktop_
-	- ✅ **Consulta** de dados
-	- ✅ **Inserção** de dados
-	- ✅ **Remoção** de dados
-	- ❌ **Edição** de dados
+- ❌ **Listagem** do acervo _Aplicação Desktop_ - ✅ **Consulta** de dados - ✅ **Inserção** de dados - ✅ **Remoção** de dados - ❌ **Edição** de dados
 
 ---
 
@@ -29,6 +25,7 @@
 %%%
 
 ### Indra e Amanda
+
 - **Consulta** de dados **acervo** em _Aplicação Desktop_
 - **Inserção** de dados **acervo** em _Aplicação Desktop_
 - **Remoção** de dados **acervo** em _Aplicação Desktop_
@@ -36,6 +33,7 @@
 %%%
 
 ### Jonata
+
 - **Perfil** do professor _Aplicação Web_
 - **Adaptação back-end** para funcionamento do perfil
 - **Refatoração** do código no back-end
@@ -43,7 +41,8 @@
 %%%
 
 ### Nikolas
-- **Conserto** de erros na **listagem** dos professores *Aplicação Desktop*
+
+- **Conserto** de erros na **listagem** dos professores _Aplicação Desktop_
 - **Refatoração** do código para seguir o padrão
 
 ---
@@ -60,7 +59,7 @@
 
 ---
 
-# Grupo 2|C
+## Grupo 2|C
 
 ---
 
@@ -120,7 +119,7 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 ---
 
-# Grupo 3|D
+## Grupo 3|D
 
 ---
 
@@ -161,7 +160,9 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 ---
 
-# Grupo 4|E
+## Grupo 4|E
+
+---
 
 ## O Que Foi Proposto
 
@@ -188,23 +189,23 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 #### Marcus
 
-* Front-End completo do Diário na Aplicação Desktop
+- Front-End completo do Diário na Aplicação Desktop
 
 #### Dornelas
 
-* Back-End da Aplicação Desktop
+- Back-End da Aplicação Desktop
 
 %%%
 
 #### Juan
 
-* Lançamentos de notas e faltas
+- Lançamentos de notas e faltas
 
 #### Nicoly e Julia
 
-* Correções de código
-* Front-End do Professor
-* Front-End do Aluno
+- Correções de código
+- Front-End do Professor
+- Front-End do Aluno
 
 ---
 
@@ -212,26 +213,29 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 %%%
 
-#### Aplicação Web 
+#### Aplicação Web
 
-* Autenticação do Diário do Professor
-* Diário do Aluno
+- Autenticação do Diário do Professor
+- Diário do Aluno
 
 #### Aplicação Desktop
 
-* Finalizar Back-End do Diário
+- Finalizar Back-End do Diário
 
 ---
 
-# Grupo 5|F
+## Grupo 5|F
+
+---
 
 ## O que foi proposto
 
 - ✅ Relatórios 8 e 9
 
-- ✅ Manutenção de alunos (biblioteca) 
+- ✅ Manutenção de alunos (biblioteca)
 
 - ✅ Finalizar as manutenções na Aplicação Desktop
+
 ---
 
 ## O que foi feito
@@ -265,7 +269,7 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 ---
 
-# Grupo 6|G
+## Grupo 6|G
 
 ---
 
@@ -275,22 +279,22 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 ### O que foi proposto
 
-* Aprimoramento da manutenção de departamentos
-* Realização da transferência do aluno
-* Liberação do histórico
+- Aprimoramento da manutenção de departamentos
+- Realização da transferência do aluno
+- Liberação do histórico
 
 ---
 
 ### O que foi feito
 
-* Aprimoramento da manutenção de departamentos
-* Realização da transferência do aluno
+- Aprimoramento da manutenção de departamentos
+- Realização da transferência do aluno
 
 ---
 
 ### O que será feito
 
-* Liberação do histórico
+- Liberação do histórico
 
 ---
 
@@ -300,8 +304,8 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 ### O que foi proposto
 
-* Aprimoramento da página dos departamentos
-* Exibição do histórico
+- Aprimoramento da página dos departamentos
+- Exibição do histórico
 
 ---
 
@@ -311,8 +315,8 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 #### Manutenção de departamentos
 
-* Padronização do layout da página web
-* Aperfeiçoamento do servidor
+- Padronização do layout da página web
+- Aperfeiçoamento do servidor
   - Segurança
   - Estrutura
 
@@ -320,15 +324,15 @@ Devido a dificuldades e muitos erros ao longo do caminho, não conseguimos final
 
 #### Transferência de aluno
 
-* Pequenas correções no servidor
-* Aperfeiçoamento da página web
+- Pequenas correções no servidor
+- Aperfeiçoamento da página web
 
 ---
 
 ### O que será feito
 
-* Aperfeiçoamento da página dos departamentos
-* Liberação do histórico
+- Aperfeiçoamento da página dos departamentos
+- Liberação do histórico
 
 ---
 
@@ -392,8 +396,8 @@ Requisições ao servidor e funcionalidade/dinamicidade da página
 #### Ruan
 
 - Correções na parte de Manutenção de Cursos
-    - Estilização
-    - Verificação de preenchimento de campo
+  - Estilização
+  - Verificação de preenchimento de campo
 - Suporte a outros grupos mais atrasados
 
 %%%
@@ -420,7 +424,7 @@ Requisições ao servidor e funcionalidade/dinamicidade da página
 
 %%%
 
-Impressão (física, pdf) dos relatórios. 
+Impressão (física, pdf) dos relatórios.
 
 ---
 
@@ -465,10 +469,10 @@ Impressão (física, pdf) dos relatórios.
 - Comunicação do menu de relatórios com os relatórios
 - Impressão dos relatórios
 - Manutenção de matrículas
-  
+
 ---
 
-# Grupo 0|A 
+## Grupo 0|A
 
 ---
 
@@ -481,7 +485,7 @@ Impressão (física, pdf) dos relatórios.
 - ❌ Fazer a integração dos códigos nas Aplicações
 - ✅ Resolver problemas no servidor
 - ❌ Realocar integrantes
-  
+
 ---
 
 ## O que foi feito
@@ -490,7 +494,7 @@ Impressão (física, pdf) dos relatórios.
 
 ### Daniel
 
-- Correções no servidor 
+- Correções no servidor
 - Solução de problemas encontrados na integração
 - Ajuda aos demais grupos
 
@@ -510,3 +514,6 @@ Impressão (física, pdf) dos relatórios.
 - Integração da Aplicação Desktop
 - Ajuda aos demais grupos
 
+---
+
+## DEMO
